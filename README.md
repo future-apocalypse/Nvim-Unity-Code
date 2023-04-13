@@ -16,7 +16,9 @@
 chmod +x nvim-unity-code
 </code></pre>
 <p><strong>3) Now go in Unity Hub, chose a random project and in unity editor go to "Edit>Preferences…>External Tools" look closely you will se a string called "External Script Editor", select this, and here you need to select Nvim-Unity-Code, chose (Open by file extension) select (Browse…) and go in your config folder of Neovim there you saved the script ~/.config/nvim/Nvim-Unity-Code/Script/ and chose neovim-unity-code executable file.</strong></p>
-<p>(HERE IMG FILE LINK)</p>
+
+![NvimUnity](https://user-images.githubusercontent.com/35393546/231776498-5d083332-d34a-4def-8d20-109ca7ec1ce2.png)
+
 <hr />
 <h3 id="note">Note</h3>
 <p>This will work only on Linux with Gnome DE, if you use another Linux with diferent desktop environment (example: KDE plasma) you will need to change a little bit the script that you installed.</p>

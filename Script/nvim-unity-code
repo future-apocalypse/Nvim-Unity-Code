@@ -1,0 +1,2 @@
+#!/bin/bash
+gnome-terminal --title="nvim-unity-code" -- nvr -s -- nostart --servername nvim-unity-code $@

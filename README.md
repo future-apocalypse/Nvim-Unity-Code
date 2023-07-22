@@ -9,7 +9,7 @@
 <hr />
 <h3 id="installation">Installation</h3>
 <p><strong>1) Just run this command in your terminal, this will add my script in your nvim folder.</strong></p>
-<pre><code class="bash language-bash">git clone https://github.com/Ares2048/Nvim-Unity-Code ~/.config/nvim/Nvim-Unity-Code
+<pre><code class="bash language-bash">git clone https://github.com/future-apocalypse/Nvim-Unity-Code ~/.config/nvim/Nvim-Unity-Code
 </code></pre>
 <p><strong>2) After this you need to make script to be executable.</strong></p>
 <pre><code class="bash language-bash">cd ~/.config/nvim/Nvim-Unity-Code/Script/
